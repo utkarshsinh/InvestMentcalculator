@@ -1,3 +1,4 @@
+![image](https://github.com/utkarshsinh/InvestMentcalculator/assets/107430204/c40b37f6-1291-46d9-b2d6-85e307c3c620)
 # EssentialsPractice
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.0-next.2.
